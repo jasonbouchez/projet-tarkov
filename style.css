@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+/* Styles pour les messages */
+.message {
+    padding: 20px;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.message-success {
+    background-color: #d4edda; /* Green */
+    color: #155724; /* Dark Green */
+}
+
+.message-error {
+    background-color: #f8d7da; /* Beige */
+    color: #721c24; /* Rouge */
+}
+
+
+ .col-4 {
+    display: flex;
+    justify-content: center;
+}
+
+
+.card-body {
+    text-align: center;
+    background-color: black;
+    box-shadow: 0 0 18px red;
+}
+
+.card-text {
+    text-align: center;
+    height: auto;
+}
+
+.card {
+    box-shadow: 0 0 18px blue;
+    margin: 5px;
+}
+
+.button {
+    text-align: center;
+    background-color: black;
+    height: 125px;
+}
+
+.acceuil {
+    margin-right: 120px;
+}
+
+.inscription {
+    margin-top: -100px;
+    background-color: rgb(194, 194, 194);
+    color: yellow;
+}
+
+.titre {
+    margin-top: -15px;
+    text-align: center;
+    background-color: black;
+}
+
+.text {
+    color: #deda04; 
+    ;
+}
+
+.text1 {
+    margin-top: 85px;
+}
+
+.card-text {
+    color: yellow;
+    height: auto;
+}
+
+#Myform{
+    text-align: center;
+    height: 53px;
+    margin-top: -27px;
+    background-color: yellow;
+    font-size: 25px;
+}
+
+.infooos{
+    text-align: center;
+    
+}
+
+.titttle{
+    color: yellow;
+    font-size: 55px;
+}
+
+.ull{
+   font-size: 25px;
+   color: black; 
+}
+
+
+.descript{
+    font-size: 25px;
+    color: black;
+}
+
+.img-fluid{
+ width:auto;
+ height: auto;   
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 2rem;
+}
+
+.body{
+    background-color: grey;
+}
+
+.brbrbr{
+color: red;
+font-size: 25px;
+}
+
+.brbr{
+    font-size: 45px;
+}
+
+.img-fluid{
+    margin-top: -20px;
+    width: 2790px;
+   
+}
+
+@media (max-width: 320px) {
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+}
+
+@media (min-width: 1025px) {
+}
